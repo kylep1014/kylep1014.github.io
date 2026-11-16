@@ -2,15 +2,14 @@
   url: /
   external: false
 
-- title: archive
+- title: projects
   url: /archive/
   external: false
 
 - title: about
   url: /about/
-  external: false # set true if you using external link, see below
+  external: false
 
-# Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+- title: resume
+  url: /assets/Kyle-Parrella-Resume.pdf
+  external: true
