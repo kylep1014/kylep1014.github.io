@@ -8,7 +8,7 @@ comments: false
 
 I'm Kyle Parrella, a senior at Loyola University Chicago completing a B.S. in Mathematics, a B.S. in Statistics and a B.A. in Economics (expected May 2027), with a 3.97 GPA and Dean's List every semester. I'm applying to law school.
 
-Most of my work sits where careful reasoning meets messy real-world data. I'm first author on a working paper about putting honest uncertainty around machine-learning forecasts of stock-market volatility, supported by a Loyola Provost Fellowship. Before that, I helped study whether expanding Medicaid eligibility in early childhood changed health and mortality decades later, work that was presented at ASHEcon 2026. Alongside my coursework, I'm taking graduate classes in Linear Algebra and Game Theory. For Game Theory, I'm modeling [jury selection as a strategic game](/voir-dire-as-a-game/).
+Recently I submitted my working paper on putting honest uncertainty around machine-learning forecasts of stock-market volatility, which I wrote as first author with support from a Loyola Provost Fellowship. Before that, I helped study whether expanding Medicaid eligibility in early childhood changed health and mortality decades later, work that was presented at ASHEcon 2026. Alongside my coursework, I'm taking graduate classes in Linear Algebra and Game Theory. For Game Theory, I'm modeling [jury selection as a strategic game](/voir-dire-as-a-game/).
 
 ## What I'm doing now
 
