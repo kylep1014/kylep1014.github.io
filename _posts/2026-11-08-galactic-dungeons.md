@@ -21,4 +21,4 @@ The tone is game-show spectacle: over-the-top sports-style announcers, a sarcast
 
 ## Where it stands
 
-I'm in the first phase: getting the core combat to feel right before building out floors, enemies and story. It's a side project, but it uses the same habits as my research. I write a design document, test small pieces one at a time, and keep the tuning numbers adjustable so the game can be refined through play.
+I'm in the first phase: getting the core combat to feel right before building out floors, enemies and story. I keep a design document, test small pieces one at a time, and keep tuning values adjustable so they can be changed during playtesting.

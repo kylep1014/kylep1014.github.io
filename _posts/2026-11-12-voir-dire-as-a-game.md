@@ -26,7 +26,7 @@ From this setup I derive a recursion for each side's probability of winning and 
 ## What the model shows
 
 - **With twelve seats, strikes go only to the extremes.** In a federal misdemeanor trial, the prosecution should strike the first juror only if their sentiment is below about 0.19, and the defense only if it is above about 0.81. Since each juror is a small part of the verdict, strikes are saved for extreme jurors.
-- **Strike allocations matter a great deal.** Equal strikes leave the game even, but the federal felony allocation of six strikes to ten gives the prosecution only about a **19%** chance of winning in the model.
+- **Unequal strike allocations favor the side with more strikes.** Equal strikes leave the game even, but the federal felony allocation of six strikes to ten gives the prosecution only about a **19%** chance of winning in the model.
 - **Peremptory strikes push juries toward the middle.** More seats and more strikes both mean that only the most extreme jurors are removed.
 
 ## Beyond averages: who persuades whom
